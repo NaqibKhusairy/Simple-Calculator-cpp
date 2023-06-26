@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678336520 source:c:\users\user\desktop\simple_calculator\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+
